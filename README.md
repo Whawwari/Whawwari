@@ -23,12 +23,12 @@ Hi, I'm Waleed Hawwari!
 
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 Im getting a Bachelors in Computer Engineering from the University of Guelph
+📚 I am persuing a Bachelors in Computer Engineering from the University of Guelph
 📝 I have a strong interest in CiberSecurity and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about Computer Vision and Cybersecurity (AWS)
 🌟 Main languages: React ts, Java, and python soon
-🚩 Interested in becoming a Full Stack Developer
+🚩 Interested in app development, next project will be a gym tracking app
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1GWcksBm58cH1eMIeOoxyMCAsNiv2aMU3/view?usp=share_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
