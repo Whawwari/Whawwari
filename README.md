@@ -36,7 +36,8 @@ Hi, I'm Waleed Hawwari!
 ## 🤝 Connect with me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/waleed-hawwari/ target="_blank""><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/waleed-hawwari/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/Whawwari" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://whawwari.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-%237D899C.svg?style=plastic&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </p>
+
