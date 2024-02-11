@@ -41,3 +41,5 @@ Hi, I'm Waleed Hawwari!
     <a href="https://whawwari.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-%237D899C.svg?style=plastic&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </p>
 
+
+Last updated Feb 10,2024
