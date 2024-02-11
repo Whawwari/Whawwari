@@ -29,7 +29,7 @@ Hi, I'm Waleed Hawwari!
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: React ts, Java, and python soon
 🚩 Interested in becoming a Full Stack Developer
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1GWcksBm58cH1eMIeOoxyMCAsNiv2aMU3/view?usp=share_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
