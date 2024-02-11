@@ -6,10 +6,10 @@ Hi, I'm Waleed Hawwari!
 </h1>
 <p align="center">
 	<a href="https://github.com/Whawwari">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=Whawwari&label=Profile%20views&color=0e75b6&style=flat" alt="Whawwari" />
 	</a>
 	<a href="https://github.com/Whawwari">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/Whawwari?label=Followers" alt="Whawwari" />
 	</a>
 </p>
 <br/>
@@ -18,7 +18,6 @@ Hi, I'm Waleed Hawwari!
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
 <hr>
 
 <pre>
