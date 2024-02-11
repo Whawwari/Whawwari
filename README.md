@@ -6,7 +6,7 @@ Hi, I'm Waleed Hawwari!
 </h1>
 <p align="center">
 	<a href="https://github.com/Whawwari">
-		<img src="https://komarev.com/ghpvc/?username=whawwari&label=Profile%20views&color=0e75b6&style=flat" alt="whawwari" />
+		<img src="https://komarev.com/ghpvc/?username=whawwari&label=Profile%200views&color=0e75b6&style=flat" alt="whawwari" />
 	</a>
 	<a href="https://github.com/Whawwari">
 		<img src="https://img.shields.io/github/followers/whawwari?label=Followers" alt="whawwari" />
